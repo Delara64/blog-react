@@ -1,0 +1,14 @@
+.list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .link:hover {
+    color: #7ed957;
+  }
+  

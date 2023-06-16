@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+html,
+body {
+  padding: auto;
+  background-image: url('../public/backLogin.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  }
