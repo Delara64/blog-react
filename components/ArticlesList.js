@@ -74,7 +74,7 @@ const ArticlesList = () => {
           </h2>
           {article.coverImage && (
             <div className={styles['article-cover-image-container']}>
-              <image
+              <img
                 src={article.coverImage}
                 alt={article.title}
                 className={styles['article-cover-image']}
