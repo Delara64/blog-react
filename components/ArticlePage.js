@@ -45,7 +45,7 @@ const ArticlePage = () => {
         </h2>
         {article.coverImage && (
             <div className={styles['article-cover-image-container']}>
-              <img
+              <image
                 src={article.coverImage}
                 alt={article.title}
                 className={styles['article-cover-image']}
